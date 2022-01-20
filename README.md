@@ -1,7 +1,7 @@
 ## Calculate Client Security Hash ##
 
 ## Description
-This project is conducted within ACME Systems Inc. , Finance and Accounting Department.
+This project is conducted within ACME Systems Inc., Finance and Accounting Department.
 
 ## Note
 - Orchestrator Asset is used to store Credentials
